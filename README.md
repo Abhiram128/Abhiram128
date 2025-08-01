@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Abhiram128
-- 👀 I’m interested in learning coding and exploring the aspects of programing world
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on c language internships
 - 📫 How to reach me  sayaniaram@gmail.com
 
 <!---
